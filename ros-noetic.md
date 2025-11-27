@@ -60,3 +60,5 @@ ROS相关:
 <p align="center">
   <img src="./images/image3.png" alt="ros1安装" width="600" style="border: 1px solid #ddd;">
 </p>
+
+安装成功
